@@ -1,0 +1,13 @@
+<root>
+  <!-- Package Identifier -->
+  <id>wot.masranber.builtindump</id>
+  
+  <!-- Package Version -->
+  <version>1.0.0</version>
+  
+  <!-- Package Name -->
+  <name>WoT Python Module Dumping Tool</name>
+  
+  <!-- Package Description -->
+  <description>Dumps class/method/member info for WoT's Python modules.</description>
+</root>
